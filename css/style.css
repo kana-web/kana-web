@@ -283,13 +283,13 @@ header {
   width: 100%;
   aspect-ratio: 16 / 10;
 }
-.works_image a {
+/* .works_image a {
   display: inline-block;
   text-decoration: none;
   color: #333333;
   border-bottom: #333 solid 1px;
   padding-top: calc(var(--section-margin) / 2) ;
-}
+} */
 .noimage {
   width: calc(50% - 40px); 
   aspect-ratio: 16 / 10; 
